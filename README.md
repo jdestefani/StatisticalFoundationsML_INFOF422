@@ -1,6 +1,6 @@
 # INFOF422 - Statistical Foundations of Machine Learning
 
-This page contains the material for the hands-on classes of ULB [INFO-F-422](https://uv.ulb.ac.be/course/view.php?id=76801).
+This page contains the material for the hands-on classes of ULB [INFO-F-422](https://uv.ulb.ac.be/course/view.php?id=92189).
 
 ## Getting ready with R notebooks
 
