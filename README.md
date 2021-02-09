@@ -20,3 +20,9 @@ jupyter notebook
 ```
 
 ## Troubleshooting
+
+
+## Try it live!
+
+Binder with Rstudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdestefani/StatisticalFoundationsML_INFOF422/HEAD?urlpath=rstudio)
+Binder with Jupyter Notebooks: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdestefani/StatisticalFoundationsML_INFOF422/HEAD)
